@@ -3932,10 +3932,10 @@
             "reshashc": "b6d8502562df15b1a6240db8ad46864c",
             "reshashf": "de7f71f8dc736eb8aa2a1af91095f578",
             "resource": "Psycho.png"
-        }
-        ,
+        },
         {
             "author": "Kfill",
+            "backresource": "Faucheuse_back_flip.png",
             "climbresource": "Choup_climb.png",
             "condition": "None",
             "flipresource": "Faucheuse_flip.png",
@@ -3945,6 +3945,18 @@
             "reshashc": "b6d8502562df15b1a6240db8ad46864c",
             "reshashf": "de7f71f8dc736eb8aa2a1af91095f578",
             "resource": "Faucheuse.png"
+        },
+        {
+            "author": "Kfill",
+            "climbresource": "Choup_climb.png",
+            "condition": "None",
+            "flipresource": "Alcolo_flip.png",
+            "name": "Alcolo",
+            "package": "Developer Hats",
+            "reshasha": "254bb544fda1c7f97e33678f2d1dace1",
+            "reshashc": "b6d8502562df15b1a6240db8ad46864c",
+            "reshashf": "de7f71f8dc736eb8aa2a1af91095f578",
+            "resource": "Alcolo.png"
         }
     ]
 }
