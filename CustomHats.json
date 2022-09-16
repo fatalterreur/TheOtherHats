@@ -3897,6 +3897,7 @@
             "resource": "UFO_adaptive.png"
         },
         {
+            "adaptive": true,
             "author": "Kfill",
             "climbresource": "Bavari_climb.png",
             "condition": "None",
