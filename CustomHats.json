@@ -3960,7 +3960,7 @@
         },
         {
             "author": "Kfill",
-            "climbresource": "Choup_climb.png",
+            "climbresource": "1_strawhat_climb.png",
             "condition": "None",
             "flipresource": "Spider_flip.png",
             "name": "Spider",
